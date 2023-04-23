@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align=right>
 
-<!--
-**zzummy/zzummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzummy&count_bg=%23FFDE9F&title_bg=%23FFB590&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<!--   ![JavaScript](https://img.shields.io/badge/JavaScript-#F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E) -->
+</div>
+
+<div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzummy&hide=stars&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zum)](https://solved.ac/zum/)
+
+</div>
