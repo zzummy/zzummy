@@ -10,11 +10,6 @@
 
 <div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzummy&hide=stars&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-<div>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zum)](https://solved.ac/zum/)
 
 </div>
